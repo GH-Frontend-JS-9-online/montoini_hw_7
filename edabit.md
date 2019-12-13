@@ -62,3 +62,47 @@
 * Callenge 5
 	* URL: https://edabit.com/challenge/Mo6Coy4PpTbZgtDKd
 	* Solution: https://www.dropbox.com/s/dpu4ih7u6ddobb0/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%202019-12-10%2014.24.01.png?dl=0
+
+
+## Functional Programming
+* Callenge 1
+	* URL: https://edabit.com/challenge/cada8J3AWGRhwQhkk
+	* Solution: https://www.dropbox.com/s/m2w6w1zpoac4d5x/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%202019-12-12%2021.33.08.png?dl=0
+
+* Callenge 2
+	* URL: https://edabit.com/challenge/tWgCG2PjN6FHq27S7
+	* Solution: https://www.dropbox.com/s/mvx4pa6pas97pav/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%202019-12-12%2022.17.00.png?dl=0
+
+* Callenge 3
+	* URL: https://edabit.com/challenge/ENWFBL4jbTgLbSqwS
+	* Solution: https://www.dropbox.com/s/9rgh9s8wlhqr52f/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%202019-12-13%2011.30.55.png?dl=0
+
+* Callenge 4
+	* URL: https://edabit.com/challenge/hzxN9bAebBPNqdQto
+	* Solution: https://www.dropbox.com/s/tbqgd2ah035r98u/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%202019-12-13%2012.31.01.png?dl=0
+
+* Callenge 5
+	* URL: https://edabit.com/challenge/4zCJaqJvEcAmqcb7y
+	* Solution: https://www.dropbox.com/s/kbo9dyq5v428pr5/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%202019-12-13%2015.53.32.png?dl=0
+
+
+## Objects
+* Callenge 1
+	* URL: https://edabit.com/challenge/i6YqzHcSiPiEQKjeX
+	* Solution: https://www.dropbox.com/s/covcxtw7k8k5q1a/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%202019-12-13%2016.32.59.png?dl=0
+
+* Callenge 2
+	* URL: https://edabit.com/challenge/4aaBNPnFMc3bzR7JR
+	* Solution: https://www.dropbox.com/s/sxxlwhkgjinzngi/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%202019-12-13%2018.43.46.png?dl=0
+
+* Callenge 3
+	* URL: https://edabit.com/challenge/pPNAs5PvB3WvnDwDM
+	* Solution: https://www.dropbox.com/preview/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%202019-12-13%2018.56.07.png?role=personal
+
+* Callenge 4
+	* URL: https://edabit.com/challenge/83sWemMhpG6pScXKp
+	* Solution: https://www.dropbox.com/s/innk5m8meksdawi/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%202019-12-13%2020.30.43.png?dl=0 
+
+* Callenge 5
+	* URL: https://edabit.com/challenge/5Yt2CrYdrJvoJFHRt
+	* Solution: https://www.dropbox.com/s/sbv30s1hlaku5qf/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%202019-12-13%2021.16.39.png?dl=0
