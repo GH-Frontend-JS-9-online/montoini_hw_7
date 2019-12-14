@@ -17,7 +17,7 @@
 
 * Callenge 5
 	* URL: https://edabit.com/challenge/3CaszbdZYGN4otQD8
-	* Solution: https://www.dropbox.com/preview/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%202019-12-07%2016.13.05.png?role=personal
+	* Solution: https://www.dropbox.com/s/bxek2wcf7whltcv/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%202019-12-14%2011.11.13.png?dl=0
 
 
 ## Arrays
@@ -53,7 +53,7 @@
 
 * Callenge 3
 	* URL: https://edabit.com/challenge/3EQGHyiYTNc9LPmhF
-	* Solution: https://www.dropbox.com/preview/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%202019-12-09%2014.13.28.png?role=personal 
+	* Solution: https://www.dropbox.com/s/ytyb2zw2f6i72m2/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%202019-12-14%2011.12.05.png?dl=0
 
 * Callenge 4
 	* URL: https://edabit.com/challenge/PTvYKkvf7oytHmJFm
@@ -97,7 +97,7 @@
 
 * Callenge 3
 	* URL: https://edabit.com/challenge/pPNAs5PvB3WvnDwDM
-	* Solution: https://www.dropbox.com/preview/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%202019-12-13%2018.56.07.png?role=personal
+	* Solution: https://www.dropbox.com/s/romfxha89qjn285/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%202019-12-14%2011.14.27.png?dl=0
 
 * Callenge 4
 	* URL: https://edabit.com/challenge/83sWemMhpG6pScXKp
